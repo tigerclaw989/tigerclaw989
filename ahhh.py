@@ -1,2 +1,3 @@
+y="UwU ooooo"
 while "true":
-    print("")
+    print(y)
