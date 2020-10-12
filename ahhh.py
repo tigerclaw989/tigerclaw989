@@ -1,3 +1,3 @@
-y="UwU ooooo"
+f="Fuck you?"
 while "true":
-    print(y)
+    print(f)
